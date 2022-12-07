@@ -12,14 +12,14 @@
 
 #theme                  : "minimal-mistakes-jekyll"
 remote_theme: "mmistakes/minimal-mistakes@4.16.0"
-# remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "sunrise" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+remote_theme           : "mmistakes/minimal-mistakes"
+minimal_mistakes_skin    : "dark" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US" 
 title                    : " حانیه ابوالحسنی"
 title_separator          : "-"
-name                     : "Poorang" 
+name                     : "Hanieh" 
 description              : "Welcome to my web site."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : #the subpath of your site, e.g. "/blog"
@@ -108,14 +108,14 @@ analytics:
 # Site Author
 author:
   name             : "Hanieh Abolhasani "
-  avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "student in IUST"
+  # avatar           : "/assets/images/bio-photo.jpg"
+  # bio              : "Computer engineering student in IUST"
   location         : "تهران"
-  email            : h.abolhasani7783@gmail.com
-  twitter: 
+  # email            : h.abolhasani7783@gmail.com
+  twitter          : 
   linkedin: 
   google_scholar: 
-  github: 
+  # github           : https://github.com/Hanieh-A/Hanieh-A.github.io
   instagram: 
   links:
     - label: "Email"
