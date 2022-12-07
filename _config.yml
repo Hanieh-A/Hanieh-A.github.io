@@ -108,14 +108,14 @@ analytics:
 # Site Author
 author:
   name             : "Hanieh Abolhasani "
-  # avatar           : "/assets/images/bio-photo.jpg"
-  # bio              : "Computer engineering student in IUST"
+  avatar           : "/assets/images/bio-photo.jpg"
+  bio              : "Computer engineering student in IUST"
   location         : "تهران"
-  # email            : h.abolhasani7783@gmail.com
+  email            : h.abolhasani7783@gmail.com
   twitter          : 
   linkedin: 
   google_scholar: 
-  # github           : https://github.com/Hanieh-A/Hanieh-A.github.io
+  github           : https://github.com/Hanieh-A/Hanieh-A.github.io
   instagram: 
   links:
     - label: "Email"
