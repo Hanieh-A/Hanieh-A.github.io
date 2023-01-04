@@ -23,11 +23,10 @@ gallery:
     image_path: /assets/images/4.jpg
     alt: "placeholder image 4"
     title: "Image 4 title caption"
-  - url: /assets/images/5.jpg
-    image_path: /assets/images/5.jpg
-    alt: "placeholder image 5"
-    title: "Image 5 title caption"  
-      
+    url: "C:\git\LabExam\LabExam01\q5.jpg"
+    image_path: "C:\git\LabExam\LabExam01\q5.jpg"
+    alt: "placeholder image q5"
+    title: "Image 1 title caption"  
 ---
 
 {% include gallery caption="This is a sample gallery with **Markdown support**." %}
