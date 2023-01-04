@@ -15,12 +15,12 @@ gallery:
     image_path: /assets/images/2.jpg
     alt: "placeholder image 2"
     title: "Image 2 title caption"
-  - url: "C:\git\LabExam\LabExam01\q5.jpg"
-    image_path: "C:\git\LabExam\LabExam01\q5.jpg"
+  - url: /assets/images/3.jpg
+    image_path: /assets/images/3.jpg
     alt: "placeholder image 3"
     title: "Image 3 title caption"  
   - url: /assets/images/4.jpg
-    image_path: /assets/images/4.jpg
+    image_path: "C:\git\LabExam\LabExam01\q5.jpg"
     alt: "placeholder image 4"
     title: "Image 4 title caption"
     url: "C:\git\LabExam\LabExam01\q5.jpg"
