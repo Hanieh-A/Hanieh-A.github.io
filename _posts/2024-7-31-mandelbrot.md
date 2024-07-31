@@ -2,7 +2,8 @@
 layout: posts
 title: Mandelbrot
 ---
-## youtube link : https://youtu.be/YJXIn9iw4Uc    This is the final video
+## youtube link : https://youtu.be/YJXIn9iw4Uc    
+## This is the final video
 
 
 [my favorite website](https://youtu.be/YJXIn9iw4Uc)
