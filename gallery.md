@@ -26,7 +26,10 @@ gallery:
     url: /assets/images/q5.jpg
     image_path: /assets/images/q5.jpg
     alt: "placeholder image q5"
-    title: "Image 1 title caption"  
+    title: "Image 1 title caption"
+    video_path : https://youtu.be/YJXIn9iw4Uc  
+    alt: "placeholder video"
+    title: "Image 1 title caption"
 ---
 
 {% include gallery caption="This is a sample gallery with **Markdown support**." %}
