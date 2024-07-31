@@ -2,13 +2,12 @@
 layout: posts
 title: Mandelbrot
 ---
-
-## This is the final video
+## youtube link : https://youtu.be/YJXIn9iw4Uc    This is the final video
 
 
 [my favorite website](https://youtu.be/YJXIn9iw4Uc)
 
-## youtube link : https://youtu.be/YJXIn9iw4Uc
+
 
 kajsdlfk jsaldfkj saldkjflaskdjflaskjdlfkasjdlfkjasdl fjsad fkajsldkfjlaskdj flakjds fksad flaksj dlfkjads l
 kfajdskfajsdf sakd fjksad jfksdj fksdj f
