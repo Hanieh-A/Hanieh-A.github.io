@@ -8,6 +8,8 @@ title: Mandelbrot
 
 [my favorite website](https://youtu.be/YJXIn9iw4Uc)
 
+## youtube link : https://youtu.be/YJXIn9iw4Uc
+
 kajsdlfk jsaldfkj saldkjflaskdjflaskjdlfkasjdlfkjasdl fjsad fkajsldkfjlaskdj flakjds fksad flaksj dlfkjads l
 kfajdskfajsdf sakd fjksad jfksdj fksdj f
 
